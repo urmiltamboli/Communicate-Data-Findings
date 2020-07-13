@@ -4,7 +4,7 @@
 
 ## Dataset
 
-> - This dataset includes information about individual rides made in a bike-sharing system covering the greater San Fransisco Bay area.
+- This dataset includes information about individual rides made in a bike-sharing system covering the greater San Fransisco Bay area.
 - The source of this data can be found at the following website: https://s3.amazonaws.com/baywheels-data/index.html
 - I'll be downloading for the year 2017-2018 and merging them into a single dataset so analysis can be done.
 
